@@ -1,12 +1,28 @@
-# React + Vite
+Notes App - React
+A simple and intuitive Notes App built with React, allowing users to create, edit, delete, and persist notes in the browser.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+🔗 Live Demo: [Link to Deployment (if applicable)]
+📂 GitHub Repo: [Your Repo Link]
 
-Currently, two official plugins are available:
+Features
+ Create Notes – Add new notes with a title and content.
+ Delete Notes – Remove unwanted notes.
+ Local Storage – Notes persist even after page refresh.
+ Responsive Design – Works on desktop and mobile.
+ Clean UI – Simple and user-friendly interface.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Technologies Used :- 
+React (Frontend Framework)
+JavaScript (ES6+)
+HTML5 & CSS3 (Styling)
+LocalStorage (Data Persistence)
+React Hooks (useState, useEffect)
 
-## Expanding the ESLint configuration
+Installation & Setup: 
+1. clone repo.
+2. navigate to project directory.
+3. install dependencies.(npm install)
+4. run project.(npm run dev)
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+
+
