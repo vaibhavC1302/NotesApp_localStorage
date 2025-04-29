@@ -81,3 +81,8 @@ body {
     cursor: pointer;
 
 }
+
+.noNoteText {
+    color: white;
+    text-transform: capitalize;
+}
